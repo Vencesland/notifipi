@@ -1,0 +1,4 @@
+nome da aplicação = notifipi
+nome do super adm = Ian_N
+email do super adm = ianneri42@gmail.com
+senha do super adm = topiramato
